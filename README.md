@@ -7,7 +7,6 @@ This React-based application provides a seamless and efficient platform for real
 #Key Features:
 
 *Real-Time Availability: Instantly view available seats and booking options.
-
 *Secure Payment Gateway: Safe and reliable payment processing.
 *User-Friendly Interface: Intuitive design for hassle-free navigation.
 *Responsive Design: Optimized for various screen sizes and devices.
